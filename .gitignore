@@ -1,0 +1,12 @@
+node_modules
+dist
+data/*
+!data/.gitkeep
+tmp-smoke-*
+release/*
+!release/ReconLens*.exe
+!release/.gitkeep
+cyber-awareness-lab/downloads/*
+*.log
+.env
+.env.*

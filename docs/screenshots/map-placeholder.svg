@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Map screenshot placeholder">
+  <rect width="960" height="540" fill="#020403"/>
+  <rect x="80" y="56" width="800" height="404" rx="12" fill="#071214" stroke="#38bdf8" stroke-opacity=".45"/>
+  <path d="M140 360 C260 180 370 430 500 240 S700 180 820 320" fill="none" stroke="#25f39b" stroke-width="5" opacity=".8"/>
+  <circle cx="508" cy="238" r="22" fill="#25f39b" opacity=".25"/>
+  <circle cx="508" cy="238" r="8" fill="#25f39b"/>
+  <text x="480" y="504" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#6ee7b7">Map screenshot placeholder</text>
+</svg>

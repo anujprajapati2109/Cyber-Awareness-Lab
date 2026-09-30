@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Timeline screenshot placeholder">
+  <rect width="960" height="540" fill="#020403"/>
+  <text x="80" y="78" font-family="Segoe UI, Arial" font-size="30" fill="#d7fbea">Session Timeline</text>
+  <line x1="130" y1="120" x2="130" y2="430" stroke="#25f39b" stroke-width="4"/>
+  <circle cx="130" cy="150" r="12" fill="#25f39b"/>
+  <circle cx="130" cy="230" r="12" fill="#38bdf8"/>
+  <circle cx="130" cy="310" r="12" fill="#25f39b"/>
+  <circle cx="130" cy="390" r="12" fill="#f8d66d"/>
+  <rect x="170" y="128" width="620" height="44" rx="6" fill="#071214"/>
+  <rect x="170" y="208" width="620" height="44" rx="6" fill="#071214"/>
+  <rect x="170" y="288" width="620" height="44" rx="6" fill="#071214"/>
+  <rect x="170" y="368" width="620" height="44" rx="6" fill="#071214"/>
+  <text x="480" y="486" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#6ee7b7">Timeline screenshot placeholder</text>
+</svg>

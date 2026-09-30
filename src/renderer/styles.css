@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #020403;
+}
+
+button,
+a,
+input,
+select {
+  font: inherit;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.primary-action {
+  display: block;
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid rgba(37, 243, 155, 0.55);
+  background: linear-gradient(135deg, #25f39b, #38bdf8);
+  color: #020403;
+  padding: 0.85rem 1rem;
+  font-weight: 700;
+  text-align: center;
+  transition: transform 160ms ease, filter 160ms ease;
+}
+
+.primary-action:hover {
+  filter: brightness(1.05);
+  transform: translateY(-1px);
+}
+
+.secondary-action,
+.secondary-link {
+  display: block;
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.055);
+  color: #d7fbea;
+  padding: 0.85rem 1rem;
+  font-weight: 650;
+  text-align: center;
+  text-decoration: none;
+  transition: border-color 160ms ease, background 160ms ease;
+}
+
+.secondary-action:hover,
+.secondary-link:hover {
+  border-color: rgba(37, 243, 155, 0.45);
+  background: rgba(37, 243, 155, 0.08);
+}
+
+.toggle-row {
+  display: flex;
+  min-height: 42px;
+  align-items: center;
+  gap: 0.7rem;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.24);
+  padding: 0.6rem 0.75rem;
+  color: #d9e7e1;
+}
+
+.toggle-row input {
+  width: 1.05rem;
+  height: 1.05rem;
+  accent-color: #25f39b;
+}
+
+.matrix-lines {
+  background-image: linear-gradient(rgba(37, 243, 155, 0.08) 1px, transparent 1px), linear-gradient(90deg, rgba(56, 189, 248, 0.06) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: linear-gradient(to bottom, transparent, black 12%, black 82%, transparent);
+}
+
+.matrix-loader {
+  position: relative;
+  overflow: hidden;
+}
+
+.matrix-loader::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(100deg, transparent, rgba(37, 243, 155, 0.18), transparent);
+  animation: scan 1.4s linear infinite;
+}
+
+@keyframes scan {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+.leaflet-container {
+  background: #020403;
+  color: #111827;
+}

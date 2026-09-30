@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Settings screenshot placeholder">
+  <rect width="960" height="540" fill="#020403"/>
+  <rect x="180" y="66" width="600" height="388" rx="12" fill="#071214" stroke="#25f39b" stroke-opacity=".45"/>
+  <text x="220" y="120" font-family="Segoe UI, Arial" font-size="30" fill="#d7fbea">Settings</text>
+  <rect x="220" y="166" width="520" height="46" rx="6" fill="#061011" stroke="#ffffff" stroke-opacity=".12"/>
+  <rect x="220" y="238" width="520" height="46" rx="6" fill="#061011" stroke="#ffffff" stroke-opacity=".12"/>
+  <rect x="220" y="310" width="520" height="46" rx="6" fill="#061011" stroke="#ffffff" stroke-opacity=".12"/>
+  <text x="480" y="500" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#6ee7b7">Settings screenshot placeholder</text>
+</svg>

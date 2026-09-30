@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Participant page screenshot placeholder">
+  <rect width="960" height="540" fill="#020403"/>
+  <rect x="90" y="48" width="780" height="444" rx="18" fill="#071214" stroke="#38bdf8" stroke-opacity=".45"/>
+  <text x="130" y="104" font-family="Segoe UI, Arial" font-size="30" fill="#d7fbea">Participant Assessment</text>
+  <rect x="130" y="150" width="700" height="46" rx="6" fill="#0b1e1f" stroke="#25f39b" stroke-opacity=".45"/>
+  <rect x="130" y="220" width="320" height="190" rx="8" fill="#061011" stroke="#ffffff" stroke-opacity=".12"/>
+  <rect x="510" y="220" width="320" height="190" rx="8" fill="#061011" stroke="#ffffff" stroke-opacity=".12"/>
+  <text x="480" y="462" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#6ee7b7">Participant page screenshot placeholder</text>
+</svg>

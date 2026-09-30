@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Reports screenshot placeholder">
+  <rect width="960" height="540" fill="#020403"/>
+  <rect x="110" y="60" width="260" height="360" rx="10" fill="#071214" stroke="#25f39b" stroke-opacity=".45"/>
+  <rect x="410" y="60" width="260" height="360" rx="10" fill="#071214" stroke="#38bdf8" stroke-opacity=".45"/>
+  <rect x="170" y="120" width="140" height="18" fill="#d7fbea" opacity=".7"/>
+  <rect x="170" y="160" width="140" height="18" fill="#d7fbea" opacity=".45"/>
+  <rect x="470" y="120" width="140" height="18" fill="#d7fbea" opacity=".7"/>
+  <rect x="470" y="160" width="140" height="18" fill="#d7fbea" opacity=".45"/>
+  <text x="480" y="486" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#6ee7b7">Reports screenshot placeholder</text>
+</svg>

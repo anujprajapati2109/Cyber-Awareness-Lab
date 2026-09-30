@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="ReconLens logo placeholder">
+  <rect width="220" height="220" rx="32" fill="#020403"/>
+  <circle cx="110" cy="110" r="68" fill="none" stroke="#25f39b" stroke-width="10"/>
+  <circle cx="110" cy="110" r="32" fill="none" stroke="#38bdf8" stroke-width="8"/>
+  <path d="M158 158 L195 195" stroke="#25f39b" stroke-width="14" stroke-linecap="round"/>
+  <text x="110" y="116" text-anchor="middle" font-family="Consolas, monospace" font-size="18" fill="#d7fbea">RL</text>
+</svg>
